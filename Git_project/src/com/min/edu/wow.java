@@ -4,5 +4,6 @@ public class wow {
 	String a;
 	int b;
 	int bs;
+	int bs;
 	
 }
